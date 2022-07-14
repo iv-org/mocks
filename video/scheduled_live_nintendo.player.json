@@ -1,0 +1,444 @@
+{
+  "playabilityStatus": {
+    "status": "LIVE_STREAM_OFFLINE",
+    "reason": "This live event will begin in 31 hours.",
+    "playableInEmbed": true,
+    "liveStreamability": {
+      "liveStreamabilityRenderer": {
+        "videoId": "0L-VW-7dJds",
+        "offlineSlate": {
+          "liveStreamOfflineSlateRenderer": {
+            "scheduledStartTime": "1655906400",
+            "mainText": {
+              "runs": [
+                {
+                  "text": "Live in "
+                },
+                {
+                  "text": "31 hours"
+                }
+              ]
+            },
+            "subtitleText": {
+              "simpleText": "June 22 at 7:00 AM GMT-7"
+            },
+            "thumbnail": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/0L-VW-7dJds/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "offlineSlateStyle": "OFFLINE_SLATE_STYLE_ABSTRACT"
+          }
+        },
+        "pollDelayMs": "15000"
+      }
+    },
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "videoDetails": {
+    "videoId": "0L-VW-7dJds",
+    "title": "Xenoblade Chronicles 3 Nintendo Direct",
+    "lengthSeconds": "0",
+    "keywords": [
+      "nintendo",
+      "game",
+      "gameplay",
+      "fun",
+      "video game",
+      "action",
+      "adventure",
+      "rpg",
+      "play",
+      "switch",
+      "nintendo switch"
+    ],
+    "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+    "isOwnerViewing": false,
+    "shortDescription": "Tune in on 6/22 at 7 a.m. PT for a livestreamed Xenoblade Chronicles 3 Direct presentation featuring roughly 20 minutes of information about the upcoming RPG adventure for Nintendo Switch.",
+    "isCrawlable": true,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0L-VW-7dJds/hqdefault_live.jpg",
+          "width": 336,
+          "height": 188
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0L-VW-7dJds/maxresdefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "isUpcoming": true,
+    "allowRatings": true,
+    "viewCount": "0",
+    "author": "Nintendo",
+    "isLowLatencyLiveStream": false,
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "latencyClass": "MDE_STREAM_OPTIMIZATIONS_RENDERER_LATENCY_NORMAL",
+    "isLiveContent": true
+  },
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/0L-VW-7dJds/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      "embed": {
+        "iframeUrl": "https://www.youtube.com/embed/0L-VW-7dJds",
+        "flashUrl": "http://www.youtube.com/v/0L-VW-7dJds?version=3&autohide=1",
+        "width": 480,
+        "height": 360,
+        "flashSecureUrl": "https://www.youtube.com/v/0L-VW-7dJds?version=3&autohide=1"
+      },
+      "title": {
+        "simpleText": "Xenoblade Chronicles 3 Nintendo Direct"
+      },
+      "description": {
+        "simpleText": "Tune in on 6/22 at 7 a.m. PT for a livestreamed Xenoblade Chronicles 3 Direct presentation featuring roughly 20 minutes of information about the upcoming RPG adventure for Nintendo Switch."
+      },
+      "lengthSeconds": "0",
+      "ownerProfileUrl": "http://www.youtube.com/user/Nintendo",
+      "externalChannelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+      "isFamilySafe": true,
+      "availableCountries": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AI",
+        "AL",
+        "AM",
+        "AO",
+        "AQ",
+        "AR",
+        "AS",
+        "AT",
+        "AU",
+        "AW",
+        "AX",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BL",
+        "BM",
+        "BN",
+        "BO",
+        "BQ",
+        "BR",
+        "BS",
+        "BT",
+        "BV",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CC",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CK",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CW",
+        "CX",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "EH",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FK",
+        "FM",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GL",
+        "GM",
+        "GN",
+        "GP",
+        "GQ",
+        "GR",
+        "GS",
+        "GT",
+        "GU",
+        "GW",
+        "GY",
+        "HK",
+        "HM",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IO",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MF",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MP",
+        "MQ",
+        "MR",
+        "MS",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NF",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NU",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PM",
+        "PN",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SH",
+        "SI",
+        "SJ",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SX",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TF",
+        "TG",
+        "TH",
+        "TJ",
+        "TK",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UM",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VI",
+        "VN",
+        "VU",
+        "WF",
+        "WS",
+        "YE",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "isUnlisted": false,
+      "hasYpcMetadata": false,
+      "viewCount": "0",
+      "category": "Gaming",
+      "publishDate": "2022-06-16",
+      "ownerChannelName": "Nintendo",
+      "liveBroadcastDetails": {
+        "isLiveNow": false,
+        "startTimestamp": "2022-06-22T14:00:00+00:00"
+      },
+      "uploadDate": "2022-06-16"
+    }
+  }
+}
