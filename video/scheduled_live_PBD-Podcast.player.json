@@ -1,77 +1,51 @@
 {
   "playabilityStatus": {
     "status": "LIVE_STREAM_OFFLINE",
-    "reason": "This live event will begin in 44 minutes.",
+    "reason": "This live event will begin in 18 hours.",
     "playableInEmbed": true,
     "liveStreamability": {
       "liveStreamabilityRenderer": {
-        "videoId": "-rn3zdpMB8k",
+        "videoId": "N-yVic7BbY0",
         "offlineSlate": {
           "liveStreamOfflineSlateRenderer": {
-            "scheduledStartTime": "1657803600",
-            "canShowCountdown": true,
+            "scheduledStartTime": "1677592800",
             "mainText": {
               "runs": [
                 {
                   "text": "Live in "
                 },
                 {
-                  "text": "44 minutes"
+                  "text": "18 hours"
                 }
               ]
             },
             "subtitleText": {
-              "simpleText": "July 14 at 9:00 AM GMT-4"
+              "simpleText": "February 28 at 9:00 AM GMT-5"
             },
             "thumbnail": {
               "thumbnails": [
                 {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+                  "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBr3OYL63vyqEVeQSyts5xQFoEOuw",
                   "width": 168,
                   "height": 94
                 },
                 {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+                  "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzKxyGXluSGsjAgzrcgNzo9j-4Qw",
                   "width": 196,
                   "height": 110
                 },
                 {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+                  "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBANSDn187DXj54fwqiUPp_gKh2YA",
                   "width": 246,
                   "height": 138
                 },
                 {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+                  "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJbH4h7RPDzCyPW5rKFXqfQqg7lg",
                   "width": 336,
                   "height": 188
                 },
                 {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/maxresdefault.jpg",
-                  "width": 1920,
-                  "height": 1080
-                },
-                {
-                  "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/maxresdefault.jpg",
+                  "url": "https://i.ytimg.com/vi/N-yVic7BbY0/maxresdefault.jpg?v=63fcee3a",
                   "width": 1920,
                   "height": 1080
                 }
@@ -91,8 +65,8 @@
     "contextParams": "Q0FFU0FnZ0M="
   },
   "videoDetails": {
-    "videoId": "-rn3zdpMB8k",
-    "title": "The Truth About Greenpeace w/ Dr. Patrick Moore | PBD Podcast | Ep. 171",
+    "videoId": "N-yVic7BbY0",
+    "title": "Home Team | PBD Podcast | Ep. 241",
     "lengthSeconds": "0",
     "keywords": [
       "Patrick Bet-David",
@@ -123,32 +97,32 @@
     ],
     "channelId": "UCGX7nGXpz-CmO_Arg-cgJ7A",
     "isOwnerViewing": false,
-    "shortDescription": "PBD Podcast Episode 171. In this episode, Patrick Bet-David is joined by Dr. Patrick Moore and Adam Sosnick.\n\nJoin the channel to get exclusive access to perks: https://bit.ly/3Q9rSQL\n\nDr. Patrick Moore: https://bit.ly/3AK778V\n\nDownload the podcasts on all your favorite platforms https://bit.ly/3sFAW4N\n\nText: PODCAST to 310.340.1132 to get added to the distribution list\n\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal bestseller Your Next Five Moves (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida.\n \nTo reach the Valuetainment team you can email: booking@valuetainment.com",
+    "shortDescription": "PBD Podcast Episode 241. The home team is ready and at it again with the latest news, interesting topics and trending conversations on topics that matter. Try our sponsor Aura for 14 days free - https://aura.com/pbd   to see how many times your personal information was found on the dark web today. Host Patrick Bet-David is joined by Tom Ellsworth, Adam Sosnick and Vincent Oshana.\n\n\nFaceTime or Ask Patrick any questions on https://minnect.com/\n\nWant to get clear on your next 5 business moves? https://valuetainment.com/academy/\n\n\nJoin the channel to get exclusive access to perks: https://bit.ly/3Q9rSQL\n\nDownload the podcasts on all your favorite platforms https://bit.ly/3sFAW4N\n\nText: PODCAST to 310.340.1132 to get added to the distribution list\n\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal bestseller Your Next Five Moves (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida.",
     "isCrawlable": true,
     "thumbnail": {
       "thumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBr3OYL63vyqEVeQSyts5xQFoEOuw",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzKxyGXluSGsjAgzrcgNzo9j-4Qw",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBANSDn187DXj54fwqiUPp_gKh2YA",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/N-yVic7BbY0/hqdefault_live.jpg?sqp=CLD7858G-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJbH4h7RPDzCyPW5rKFXqfQqg7lg",
           "width": 336,
           "height": 188
         },
         {
-          "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/N-yVic7BbY0/maxresdefault.jpg?v=63fcee3a",
           "width": 1920,
           "height": 1080
         }
@@ -169,27 +143,27 @@
       "thumbnail": {
         "thumbnails": [
           {
-            "url": "https://i.ytimg.com/vi/-rn3zdpMB8k/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/N-yVic7BbY0/maxresdefault_live.jpg",
             "width": 1280,
             "height": 720
           }
         ]
       },
       "embed": {
-        "iframeUrl": "https://www.youtube.com/embed/-rn3zdpMB8k",
-        "flashUrl": "http://www.youtube.com/v/-rn3zdpMB8k?version=3&autohide=1",
+        "iframeUrl": "https://www.youtube.com/embed/N-yVic7BbY0",
+        "flashUrl": "http://www.youtube.com/v/N-yVic7BbY0?version=3&autohide=1",
         "width": 640,
         "height": 360,
-        "flashSecureUrl": "https://www.youtube.com/v/-rn3zdpMB8k?version=3&autohide=1"
+        "flashSecureUrl": "https://www.youtube.com/v/N-yVic7BbY0?version=3&autohide=1"
       },
       "title": {
-        "simpleText": "The Truth About Greenpeace w/ Dr. Patrick Moore | PBD Podcast | Ep. 171"
+        "simpleText": "Home Team | PBD Podcast | Ep. 241"
       },
       "description": {
-        "simpleText": "PBD Podcast Episode 171. In this episode, Patrick Bet-David is joined by Dr. Patrick Moore and Adam Sosnick.\n\nJoin the channel to get exclusive access to perks: https://bit.ly/3Q9rSQL\n\nDr. Patrick Moore: \ufeffhttps://bit.ly/3AK778V\n\nDownload the podcasts on all your favorite platforms https://bit.ly/3sFAW4N\n\nText: PODCAST to 310.340.1132 to get added to the distribution list\n\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal bestseller Your Next Five Moves (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida.\n \nTo reach the Valuetainment team you can email: booking@valuetainment.com"
+        "simpleText": "PBD Podcast Episode 241. The home team is ready and at it again with the latest news, interesting topics and trending conversations on topics that matter. Try our sponsor Aura for 14 days free - https://aura.com/pbd   to see how many times your personal information was found on the dark web today. Host Patrick Bet-David is joined by Tom Ellsworth, Adam Sosnick and Vincent Oshana.\n\n\nFaceTime or Ask Patrick any questions on https://minnect.com/\n\nWant to get clear on your next 5 business moves? https://valuetainment.com/academy/\n\n\nJoin the channel to get exclusive access to perks: https://bit.ly/3Q9rSQL\n\nDownload the podcasts on all your favorite platforms https://bit.ly/3sFAW4N\n\nText: PODCAST to 310.340.1132 to get added to the distribution list\n\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal bestseller Your Next Five Moves (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida."
       },
       "lengthSeconds": "0",
-      "ownerProfileUrl": "http://www.youtube.com/channel/UCGX7nGXpz-CmO_Arg-cgJ7A",
+      "ownerProfileUrl": "http://www.youtube.com/@PBDPodcast",
       "externalChannelId": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "isFamilySafe": true,
       "availableCountries": [
@@ -447,13 +421,13 @@
       "hasYpcMetadata": false,
       "viewCount": "0",
       "category": "Entertainment",
-      "publishDate": "2022-07-13",
+      "publishDate": "2023-02-27",
       "ownerChannelName": "PBD Podcast",
       "liveBroadcastDetails": {
         "isLiveNow": false,
-        "startTimestamp": "2022-07-14T13:00:00+00:00"
+        "startTimestamp": "2023-02-28T14:00:00+00:00"
       },
-      "uploadDate": "2022-07-13"
+      "uploadDate": "2023-02-27"
     }
   }
 }
