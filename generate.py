@@ -71,7 +71,14 @@ for file in files:
     default_context.update({"videoId": file["video_id"]})
     context = json.dumps(default_context)
     video = json.loads(run_yt_helper_script("-c", "web", "-e", file['endpoint'], "--data", context))
+
+    # Delete some useless elements
     del video['responseContext']
+    if 'topbar' in video: del video['topbar']
+    if 'overlay' in video: del video['overlay']
+    if 'attestation' in video: del video['attestation']
+    if 'frameworkUpdates' in video: del video['frameworkUpdates']
+
 
     processed_mocks = apply_ip_replacements(json.dumps(video, indent=2))
     write_string_to_file("video/"+file["name"], processed_mocks)
