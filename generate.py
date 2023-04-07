@@ -73,11 +73,11 @@ for file in files:
     video = json.loads(run_yt_helper_script("-c", "web", "-e", file['endpoint'], "--data", context))
 
     # Delete some useless elements
-    del video['responseContext']
-    if 'topbar' in video: del video['topbar']
-    if 'overlay' in video: del video['overlay']
-    if 'attestation' in video: del video['attestation']
-    if 'frameworkUpdates' in video: del video['frameworkUpdates']
+    del video["responseContext"]
+    if "topbar" in video: del video["topbar"]
+    if "overlay" in video: del video["overlay"]
+    if "attestation" in video: del video["attestation"]
+    if "frameworkUpdates" in video: del video["frameworkUpdates"]
 
 
     processed_mocks = apply_ip_replacements(json.dumps(video, indent=2))
