@@ -4,6 +4,7 @@ import typing
 import json
 import tempfile
 import os
+import re
 
 default_context = json.loads('''
 {
@@ -44,13 +45,36 @@ def write_string_to_file(filename: str, string: str):
         file.write(string)
 
 
+ip_replacements = [
+    (r'^\s+("(clickT|t)rackingParams").+$', r'\1:""'),
+    (r'[?&](sqp|rs|redir_token)=[A-Za-z0-9=-]+', ""),
+    (r'(initplayback\?source=youtube)[^"]+', ""),
+    (r'([&?\/]ip[=\/])[^&\/]+', "\1X.X.X.X")
+]
+
+def apply_ip_replacements(input: str) -> str:
+    for (pattern, sub) in ip_replacements:
+        input = re.sub(pattern, sub, input, flags=re.MULTILINE)
+
+    return input
+
+confirmation = input('''The generated mocks may contain your IP-Address. 
+We try our best to filter it out but it may still leak. 
+Do you wish to continue? (y/n): ''')
+
+if confirmation.lower() != "y":
+    print("Action cancelled.")
+    exit(0)
+
 files = read_videos_metadata()
 for file in files:
     default_context.update({"videoId": file["video_id"]})
     context = json.dumps(default_context)
     video = json.loads(run_yt_helper_script("-c", "web", "-e", file['endpoint'], "--data", context))
     del video['responseContext']
-    write_string_to_file("video/"+file["name"], json.dumps(video, indent=2))
+
+    processed_mocks = apply_ip_replacements(json.dumps(video, indent=2))
+    write_string_to_file("video/"+file["name"], processed_mocks)
     
 
 
