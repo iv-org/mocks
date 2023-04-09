@@ -1,0 +1,24 @@
+{
+    "files": [
+        {
+            "name": "regular_mrbeast.player.json",
+            "video_id": "2isYuQZMbdU",
+            "endpoint": "player"
+        },
+        {
+            "name": "regular_mrbeast.next.json",
+            "video_id": "2isYuQZMbdU",
+            "endpoint": "next"
+        },
+        {
+            "name": "regular_no-description.player.json",
+            "video_id": "iuevw6218F0",
+            "endpoint": "player"
+        },
+        {
+            "name": "regular_no-description.next.json",
+            "video_id": "iuevw6218F0",
+            "endpoint": "next"
+        }
+    ]
+}
