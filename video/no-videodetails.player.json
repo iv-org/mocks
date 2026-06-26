@@ -1,0 +1,470 @@
+{
+  "playabilityStatus": {
+    "status": "UNPLAYABLE",
+    "reason": "Sign in to confirm your age",
+    "playableInEmbed": true,
+    "errorScreen": {
+      "playerErrorMessageRenderer": {
+        "reason": {
+          "simpleText": "Sign in to confirm your age"
+        },
+        "subreason": {
+          "simpleText": "This video may be inappropriate for some users."
+        }
+      }
+    }
+  },
+  "playerConfig": {
+    "audioConfig": {
+      "loudnessDb": 0.6300001,
+      "perceptualLoudnessDb": -13.37,
+      "enablePerFormatLoudness": true
+    },
+    "streamSelectionConfig": {
+      "maxBitrate": "13770000"
+    },
+    "mediaCommonConfig": {
+      "dynamicReadaheadConfig": {
+        "maxReadAheadMediaTimeMs": 120000,
+        "minReadAheadMediaTimeMs": 15000,
+        "readAheadGrowthRateMs": 1000
+      },
+      "mediaUstreamerRequestConfig": {
+        "videoPlaybackUstreamerConfig": "CrgJCp8HCAAlAACAPy0zM3M_NT0Klz9YAWgBchoKFm1mczJfY21mc193ZWJfdjNfMl8wMDMYAHiPTqABAagBAJACAbgCAMgCAdoC2gEQsOoBGIDd2wEgoJwBKKCcATCYdXCIJ4AB9AO4AQHgAQOQAgGYAgygAgHAAgHQAgLgAgHoAgSAAwKIA4gnmAMBqAMDwAMByAMB0AMB-AMBgAQBiAQBkAQBmAQBoAQBqAQByAQB0AQB2AQB4AQA6AQB-AQHgAV9iAUBsAUBuAUBwAUByAUB0AUB2AUB4AXQD-gFAfgF0A-ABgGQBgG4BgHABgHQBgHYBgHoBgHwBgH4BgGAB9APkAcBqAcBwAcByAcB2AcB8AcBkAgBnQgAAIC_oAjoB_i1keUMAfoCmwItAACCQjUAAJZCSAFlAACAQGjAcKgB0IYDsAHgA7gBAc0BAACAP_ABAf0BAACAP4UCmpkZP40CAACAP5UCAAACQpgCAbUCAACAP8AC4APSAhGw__________8BHjxGWlxdXtoCBTIwOjAw4AJ46ALoAvUCCtejO_0CzczMPYADAZADAZ0DCtcjPaADAbgDAcgDAdgDAeUDYkpEQO0DMsrzPvADAf0DZmaGP4UEAACAQJgEAdUEAAAgQegE8BDwBAHIBQHgBQGYBgGoBgG1Br03hjW9BjMzg0CQBwGwBwHABwHIBwHVBwCAnUPlBwCACUShCAAAAAAAAPC_qQgAAAAAAADwv7AI8AG4CAHYCPAB6AgBiAkBlQkAgJ1DggMAkAMBqAMBsAMD0AMB2AMB4AOQTrgEAcoEHAoTCMCpBxCYdRjoByUAAAAAKAAwABDg1AMY0A_SBA0KCAiwCRCwCSABIIgn2gQLCgYI8C4Q8C4g8C74BAGQBQGoBQHQBQHYBQHoBQHwBQGIBgGYBgGoBoCAAsAGAcgGAdIGFAjoBxBkGg0IiCcVAAAAPx3NzEw_4AYBggcLFQAAgD8YZCCgjQaIBwGgBwG4BwHABwGACAGgCAGwCAG4CAHSCAYIARABGAGpCQAAAAAAAPC_sQkAAAAAAADwv8gJAdoJJFBtWGplcEhzVzV4dlV1cWp3RGFiekJ3VGNOQ1llT1FrVUtoeuAJAbAKAYgLAZgLAcALAcgLAdALAdgLAeoLBIsGjAbwCwH4CwGQDAGoDJABsAwBuAwBwAwB0AwB4AwBgA0BoA0B0A0B4A0BiA4BkA4BsA4ByA4B0A8BiKehygsBGAEgATIMCIcBEP2M3Meb6IUDMgwI9AEQ8aLqgKPohQMyDAiNAxDV8dLVq-iFAzIMCIYBENC4xf-b6IUDMgwI8wEQ0-_-86LohQMyDAiMAxDyhuLZpOiFAzIMCIUBEILnme-b6IUDMgwI8gEQ55uj6qLohQMyDAiLAxCYo9ONnuiFAzIMCKABEPuk4cqb6IUDMgwIlgIQsuiZ56LohQMyDAiKAxDWvaaZm-iFAzIMCIwBELf51OaW6IUDMgwI-QEQg-_cg5fohQMyDAj6ARDFl9iDl-iFAzIMCPsBELrE2IOX6IUDOgBIAFImGgAoADIYVUNfNXE2bldQYkQzMC15Nm9pV0Zfb05BOABAAFgAYACQy9OPDgESSwAN6UYKMEQCIEC-_4PZDlzEQKgt0f-S-A0vm6yfQwgzyJ4RrZy8bSkpAiA7o2my1YWsNxUAjGAyTm_gfWovm8wRIgEnNxCDNT0E5hoCZWk="
+      },
+      "useServerDrivenAbr": false,
+      "serverPlaybackStartConfig": {
+        "enable": true,
+        "playbackStartPolicy": {
+          "startMinReadaheadPolicy": [
+            {
+              "minReadaheadMs": 1200
+            }
+          ]
+        }
+      }
+    },
+    "webPlayerConfig": {
+      "useCobaltTvosDash": true,
+      "webPlayerActionsPorting": {
+        "getSharePanelCommand": {
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/share/get_web_player_share_panel"
+            }
+          },
+          "webPlayerShareEntityServiceEndpoint": {
+            "serializedShareEntity": "CgtpdWV2dzYyMThGMA%3D%3D"
+          }
+        },
+        "subscribeCommand": {
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/subscribe"
+            }
+          },
+          "subscribeEndpoint": {
+            "channelIds": [
+              "UC_5q6nWPbD30-y6oiWF_oNA"
+            ],
+            "params": "EgIIBxgA"
+          }
+        },
+        "unsubscribeCommand": {
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+            }
+          },
+          "unsubscribeEndpoint": {
+            "channelIds": [
+              "UC_5q6nWPbD30-y6oiWF_oNA"
+            ],
+            "params": "CgIIBxgA"
+          }
+        },
+        "addToWatchLaterCommand": {
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "addedVideoId": "iuevw6218F0",
+                "action": "ACTION_ADD_VIDEO"
+              }
+            ]
+          }
+        },
+        "removeFromWatchLaterCommand": {
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                "removedVideoId": "iuevw6218F0"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "storyboards": {
+    "playerStoryboardSpecRenderer": {
+      "spec": "https://i.ytimg.com/sb/iuevw6218F0/storyboard3_L$L/$N.jpg_8DBgjBuYuoBg==|48#27#100#10#10#0#default#rs$AOn4CLDwFc1dxobfrDJ6JuY9CFZzKHiCPg|58#45#143#10#10#2000#M$M#rs$AOn4CLA7Ezm92rSbOild0wJf53ZhPzN0ZQ|117#90#143#5#5#2000#M$M#rs$AOn4CLAG1J06dQ97pWm5rKlhiqJgQMXUUw|234#180#143#3#3#2000#M$M#rs$AOn4CLCQ28flA4IaQcqaW74kMuy7szBF1Q",
+      "recommendedLevel": 2,
+      "highResolutionRecommendedLevel": 3
+    }
+  },
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/iuevw6218F0/hqdefault.jpg_zMkpyGw",
+            "width": 480,
+            "height": 360
+          }
+        ]
+      },
+      "embed": {
+        "iframeUrl": "https://www.youtube.com/embed/iuevw6218F0",
+        "width": 480,
+        "height": 360
+      },
+      "title": {
+        "simpleText": "Chris Rea - Auberge"
+      },
+      "description": {
+        "simpleText": " "
+      },
+      "lengthSeconds": "283",
+      "ownerProfileUrl": "http://www.youtube.com/@chrisreaofficial583",
+      "externalChannelId": "UC_5q6nWPbD30-y6oiWF_oNA",
+      "isFamilySafe": true,
+      "availableCountries": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AI",
+        "AL",
+        "AM",
+        "AO",
+        "AQ",
+        "AR",
+        "AS",
+        "AT",
+        "AU",
+        "AW",
+        "AX",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BL",
+        "BM",
+        "BN",
+        "BO",
+        "BQ",
+        "BR",
+        "BS",
+        "BT",
+        "BV",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CC",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CK",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CW",
+        "CX",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "EH",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FK",
+        "FM",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GL",
+        "GM",
+        "GN",
+        "GP",
+        "GQ",
+        "GR",
+        "GS",
+        "GT",
+        "GU",
+        "GW",
+        "GY",
+        "HK",
+        "HM",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IO",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MF",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MP",
+        "MQ",
+        "MR",
+        "MS",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NF",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NU",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PM",
+        "PN",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SH",
+        "SI",
+        "SJ",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SX",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TF",
+        "TG",
+        "TH",
+        "TJ",
+        "TK",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UM",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VI",
+        "VN",
+        "VU",
+        "WF",
+        "WS",
+        "YE",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "isUnlisted": false,
+      "hasYpcMetadata": false,
+      "viewCount": "14324584",
+      "category": "Music",
+      "publishDate": "2012-05-21T07:01:37-07:00",
+      "ownerChannelName": "ChrisReaVideos",
+      "uploadDate": "2012-05-21T07:01:37-07:00",
+      "isShortsEligible": false
+    }
+  },
+  "cards": {
+    "cardCollectionRenderer": {
+      "cards": [
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "View corrections"
+                },
+                "prominent": true,
+                "logVisibilityUpdates": true,
+                "onTapCommand": {
+                  "changeEngagementPanelVisibilityAction": {
+                    "targetId": "engagement-panel-error-corrections",
+                    "visibility": "ENGAGEMENT_PANEL_VISIBILITY_EXPANDED"
+                  }
+                }
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "0",
+                "endCardActiveMs": "5000",
+                "teaserDurationMs": "6000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "trackingParams": ""
+          }
+        }
+      ],
+      "headerText": {
+        "simpleText": "From ChrisReaVideos"
+      },
+      "icon": {
+        "infoCardIconRenderer": {
+          "trackingParams": ""
+        }
+      },
+      "closeButton": {
+        "infoCardIconRenderer": {
+          "trackingParams": ""
+        }
+      },
+      "allowTeaserDismiss": true,
+      "logIconVisibilityUpdates": true
+    }
+  },
+  "adBreakHeartbeatParams": "Q0FBJTNE"
+}
