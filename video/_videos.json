@@ -19,6 +19,16 @@
             "name": "regular_no-description.next.json",
             "video_id": "iuevw6218F0",
             "endpoint": "next"
+        },
+        {
+            "name": "no-videodetails.player.json",
+            "video_id": "no-videodetails-id",
+            "endpoint": "player"
+        },
+        {
+            "name": "regular_no-description.next.json",
+            "video_id": "no-videodetails-id",
+            "endpoint": "next"
         }
     ]
 }
