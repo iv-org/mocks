@@ -15,7 +15,7 @@ default_context = json.loads('''
             "deviceMake":"",
             "deviceModel":"",
             "clientName":"WEB",
-            "clientVersion":"2.20230217.01.00"
+            "clientVersion":"2.20260722.01.00"
         }
     }
 }
